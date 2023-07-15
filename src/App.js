@@ -1,4 +1,6 @@
 import './App.css';
+    import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import NavBar from './components/layout/NavBar';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Home from './components/pages/Home';

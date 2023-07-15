@@ -7,9 +7,9 @@ export default function NavBar() {
         <nav className={styles.navbar}>
             <Container customClass="center">
                 <ul className={styles.list}>
-                    <li><Link to={'/'}>Home</Link></li>
-                    <li><Link to={'/projects'}>Projects</Link></li>
-                    <li><Link to={'/experience'}>Experience</Link></li>
+                    <li><Link to={'/'}>Início</Link></li>
+                    <li><Link to={'/projects'}>Projetos</Link></li>
+                    <li><Link to={'/experience'}>Experiências</Link></li>
                 </ul>
             </Container>
         </nav>

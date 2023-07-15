@@ -1,0 +1,19 @@
+.heading {
+    display: flex;
+    align-items: center;
+}
+
+.heading h1, .heading h2 {
+    margin-left: 3rem;
+}
+
+.heading h2 {
+    color: var(--text-color);
+}
+
+.heading img {
+    width: 250px;
+    height: 250px;
+    border: 2px solid var(--text-color-darker);
+    border-radius: 50%;
+}
