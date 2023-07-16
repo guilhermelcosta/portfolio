@@ -45,3 +45,13 @@
     font-weight: bold;
     color: var(--title-color);
 }
+
+@media (max-width: 768px) {
+    .container {
+        margin-top: 1em;
+    }
+
+    .container ul, .container button {
+        width: 100%;
+    }
+}

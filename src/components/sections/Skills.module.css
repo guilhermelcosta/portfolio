@@ -7,3 +7,9 @@
     margin-bottom: 0;
     margin-top: 0.5em;
 }
+
+@media (max-width: 768px) {
+    .container .technologies img {
+        margin-top: 0.5em;
+    }
+}

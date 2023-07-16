@@ -17,3 +17,18 @@
     border: 2px solid var(--text-color-darker);
     border-radius: 50%;
 }
+
+@media (max-width: 768px) {
+    .heading {
+        flex-direction: column-reverse;
+    }
+
+    .heading h1, .heading h2 {
+        margin-left: 0;
+    }
+
+    .heading img {
+        width: 100%;
+        border-radius: 5%;
+    }
+}

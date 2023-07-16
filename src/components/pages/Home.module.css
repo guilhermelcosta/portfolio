@@ -11,3 +11,13 @@
 .grid_container .column:first-of-type {
     grid-column: span 2;
 }
+
+@media (max-width: 768px) {
+    .grid_container {
+        padding: 0 1em;
+    }
+
+    .grid_container .column {
+        padding: 1em 2em;
+    }
+}
