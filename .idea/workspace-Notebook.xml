@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dc87de8-31d2-4cd7-84af-1d4aa071c5fc" name="Changes" comment="feat: finalizado media queries para mobile">
+      <change afterPath="$PROJECT_DIR$/public/portfolio-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Projects.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sections/Projects/ProjectCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sections/Projects/ProjectCard.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/foto-skanboo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/NavBar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/NavBar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/AboutMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/AboutMe.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/ContactInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/ContactInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/ContactInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/ContactInfo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/Education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Education.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/Education.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Heading.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/Heading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Heading.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/Heading.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Languages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/Languages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Languages.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/Languages.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Home/Skills.module.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Sa3VahbwDgMPeNqnLBGJpT59yH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilh/OneDrive/Documentos/2 - Pessoal/Repositorios GitHub/portfolio/public&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\img" />
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\public" />
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\components\sections\Home" />
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\components\sections" />
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\components\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc87de8-31d2-4cd7-84af-1d4aa071c5fc" name="Changes" comment="" />
+      <created>1689370888360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689370888360</updated>
+      <workItem from="1689370889457" duration="13736000" />
+      <workItem from="1689427750525" duration="19305000" />
+      <workItem from="1689467082394" duration="3174000" />
+      <workItem from="1689508789299" duration="5168000" />
+    </task>
+    <task id="LOCAL-00001" summary="tada: upload inicial">
+      <option name="closed" value="true" />
+      <created>1689386611407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689386611407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: finalizado versao inicial da Home (pendente responsividade)">
+      <option name="closed" value="true" />
+      <created>1689442099446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689442099446</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: finalizado media queries para mobile">
+      <option name="closed" value="true" />
+      <created>1689465663611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689465663611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tada: upload inicial" />
+    <MESSAGE value="feat: finalizado versao inicial da Home (pendente responsividade)" />
+    <MESSAGE value="feat: finalizado media queries para mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: finalizado media queries para mobile" />
+  </component>
+</project>

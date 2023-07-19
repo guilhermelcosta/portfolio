@@ -1,0 +1,43 @@
+.project_card_container {
+    display: inline-block;
+    width: 350px;
+    margin: 1em 2em;
+    padding: 1em;
+    border: 2px solid var(--text-color-darker);
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+.project_card_container:hover {
+    border: 2px solid var(--text-color);
+}
+
+.project_card_container img {
+    width: 150px;
+    height: 50px;
+}
+
+.project_card_container p:first-of-type {
+    margin-top: 0.5em;
+}
+
+.project_card_container a {
+    color: var(--text-color);
+    transition: all 0.3s;
+}
+
+.project_card_container a:hover {
+    color: var(--emphasis-color);
+}
+
+.technologies img {
+    width: 30px;
+    margin-top: 1em;
+    margin-right: 0.5em;
+}
+
+@media (max-width: 768px) {
+    .project_card_container:first-of-type {
+        margin-top: 5em;
+    }
+}

@@ -1,0 +1,70 @@
+.container {
+    margin: 0 20em;
+}
+
+.container > img {
+    width: 300px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.container p:first-of-type {
+    margin-top: 1em;
+}
+
+.container a {
+    color: var(--text-color);
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.container a:after {
+    position: absolute;
+    top: 200px;
+    left: 320px;
+    content: "___";
+    color: var(--emphasis-color);
+}
+
+.container a:hover {
+    color: var(--emphasis-color);
+}
+
+.technologies img {
+    width: 30px;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+video {
+    border: 2px solid var(--text-color-darker);
+    margin-top: 1em;
+    width: 100%;
+}
+
+span {
+    font-weight: bold;
+}
+
+
+@media (max-width: 768px) {
+    .container {
+        margin: 0 1em;
+    }
+
+    .container > img {
+        width: 300px;
+        height: 100px;
+        display: inline-block;
+        margin: 5em auto 0 auto;
+    }
+
+    .container a:after {
+        position: absolute;
+        top: 205px;
+        left: 15px;
+        content: "___";
+        color: var(--emphasis-color);
+    }
+}

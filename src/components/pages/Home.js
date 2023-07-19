@@ -1,14 +1,14 @@
 import styles from './Home.module.css';
-import ContactInfo from '../sections/ContactInfo';
-import Heading from '../sections/Heading';
-import AboutMe from '../sections/AboutMe';
-import Skills from '../sections/Skills';
-import Languages from '../sections/Languages';
-import Education from '../sections/Education';
+import ContactInfo from '../sections/Home/ContactInfo';
+import Heading from '../sections/Home/Heading';
+import AboutMe from '../sections/Home/AboutMe';
+import Skills from '../sections/Home/Skills';
+import Languages from '../sections/Home/Languages';
+import Education from '../sections/Home/Education';
 import {useEffect, useState} from 'react';
 
 export default function Home() {
-
+    // todo: adicionar componente de loading
     const [isMobile, setIsMobile] = useState(false);
 
     useEffect(() => {

@@ -1,0 +1,17 @@
+.container ul {
+    padding: 0;
+}
+
+.container ul li:nth-child(odd) {
+    color: var(--text-color);
+    list-style: circle;
+    font-size: 1.2em;
+}
+
+.container ul li:nth-child(even) {
+    margin-top: 0.1em !important;
+}
+
+.container ul li:not(:first-of-type) {
+    margin-top: 1em;
+}
