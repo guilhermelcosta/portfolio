@@ -8,7 +8,7 @@ import Education from '../sections/Home/Education';
 import {useEffect, useState} from 'react';
 
 export default function Home() {
-    // todo: adicionar componente de loading
+
     const [isMobile, setIsMobile] = useState(false);
 
     useEffect(() => {

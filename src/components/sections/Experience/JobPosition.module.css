@@ -1,0 +1,28 @@
+.job_position_container p:first-of-type {
+    transition: all 0.5s;
+}
+
+.job_position_container:hover p:first-of-type {
+    color: var(--emphasis-color);
+}
+
+.job_position_container p:last-of-type {
+    margin-left: 1em;
+    font-size: 1.1em;
+}
+
+.job_position_container li {
+    list-style: circle;
+}
+
+span {
+    font-weight: bold;
+}
+
+
+@media (max-width: 768px) {
+    .job_position_container:first-of-type {
+        display: inline-block;
+        margin-top: 5em;
+    }
+}

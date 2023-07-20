@@ -7,7 +7,7 @@ export default function Heading() {
             <img src={img_placeholder} alt="Minha foto"/>
             <div>
                 <h1>Olás, eu sou o Guilherme <span>👋</span></h1>
-                <h2>Engenheiro de Software</h2>
+                <h2>Desenvolvedor full stack</h2>
             </div>
         </div>
     );
