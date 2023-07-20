@@ -4,7 +4,6 @@
 
 ![img.png](img.png)
 
-
 ## 📜 About the project
 
 **My Personal Portfolio: Showcasing My Web Development Journey**
