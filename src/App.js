@@ -42,6 +42,7 @@ function App() {
         members: 'Guilherme Costa',
         url: 'https://github.com/guilhermelcosta/portfolio'
     }];
+
     const technologyImg = {
         'HTML': 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg',
         'CSS': 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg',

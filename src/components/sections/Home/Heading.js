@@ -1,5 +1,5 @@
 import styles from './Heading.module.css';
-import foto from '../../../img/foto-heading.jpeg';
+import foto from '../../../img/foto-heading.png';
 
 export default function Heading() {
     return (
