@@ -7,15 +7,15 @@ export default function Experience() {
             <JobPosition company="PUC Minas" role="Monitor de Algoritmos e Estruturas de Dados I" start="02/2023" end="06/2023"
                          act1="Apoio aos alunos em problemas de lógica, desenvolvimento em C e dúvidas em geral"
                          skills="resolução de problemas e desenvolvimento em linguagem C"/>
-            <JobPosition company="HECT Consultoria" role="Assistente Sênior" start="05/2022" end="08/2022"
+            <JobPosition company="HECT Consultoria" role="Analista Sênior" start="05/2022" end="08/2022"
                          act1="Acompanhamento e gerenciamento de obras, com elaboração de relatórios diários/mensais, estudos de produtividade e análises de critérios de medição"
                          act2="Elaboração de pleitos e pareceres, considerando os desvios observados no empreendimento (desvio de alocação de recursos, perda de produtividade, execução de serviços adicionais, mudança de escopo, dentre outros)."
                          skills="liderança e gerenciamento de projetos"/>
-            <JobPosition company="HECT Consultoria" role="Assistente Pleno" start="05/2021" end="05/2022"
+            <JobPosition company="HECT Consultoria" role="Analista Pleno" start="05/2021" end="05/2022"
                          act1="Acompanhamento e gerenciamento de obras, com elaboração de relatórios diários/mensais, estudos de produtividade e análises de critérios de medição"
                          act2="Elaboração de pleitos e pareceres, considerando os desvios observados no empreendimento (desvio de alocação de recursos, perda de produtividade, execução de serviços adicionais, mudança de escopo, dentre outros)."
                          skills="liderança e gerenciamento de equipes"/>
-            <JobPosition company="HECT Consultoria" role="Assistente Técnico" start="05/2020" end="05/2021"
+            <JobPosition company="HECT Consultoria" role="Analista Júnior" start="05/2020" end="05/2021"
                          act1="Realização de análises de mérito de reivindicações e cálculo de custos adicionais incorridos no contrato (desvios de produtividade, extensão de prazo, dentre outros)"
                          act2="Estudo e diagnóstico de atrasos na obra por meio de análise de cronograma (metodologia de caminho crítico)"
                          act3="Quantificação de onerosidade excessiva diagnosticada no contrato"

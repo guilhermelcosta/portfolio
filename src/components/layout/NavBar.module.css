@@ -15,6 +15,51 @@
     margin-right: 1em;
 }
 
+/*todo: ajustar essa classe*/
+.navbar ul li:nth-of-type(4) {
+    position: absolute;
+    right: 10em;
+    top: 1em;
+}
+
+.check {
+    position: relative;
+    margin-right: 2.7em;
+}
+
+.check:before {
+    content: '';
+    position: absolute;
+    width: 3em;
+    height: 1.2em;
+    background-color: var(--text-color);
+    border-radius: 25px;
+}
+
+.check:checked:before {
+    background-color: var(--text-color);
+}
+
+.check:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 1.2em;
+    height: 1.2em;
+    border: 2px solid red;
+    border-radius: 25px;
+    background-color: var(--text-color-darker);
+    transition: 0.25s;
+}
+
+.check:checked:after {
+    left: calc(3em - 1.2em);
+}
+
+.check:checked ~ .content_PT {
+    display: none !important;
+}
+
 .navbar ul li:after {
     position: absolute;
     content: "___";
@@ -26,13 +71,13 @@
     color: var(--emphasis-color);
 }
 
-.navbar ul li:hover::after{
+.navbar ul li:hover::after {
     transform: scaleX(1);
     transform-origin: left;
 }
 
 .navbar ul li a {
-    color:  var(--title-color);
+    color: var(--title-color);
     font-weight: bold;
 }
 
