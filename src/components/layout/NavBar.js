@@ -13,11 +13,11 @@ export default function NavBar() {
                     <li><Link to={'/experience'}>Experiências</Link></li>
                 </ul>
 
-                <div>
-                    <span><MDBIcon flag="us"/></span>
-                    <input type="checkbox" className={styles.check}/>
-                    <span><MDBIcon flag="br"/></span>
-                </div>
+                {/*<div>*/}
+                {/*    <span><MDBIcon flag="us"/></span>*/}
+                {/*    <input type="checkbox" className={styles.check}/>*/}
+                {/*    <span><MDBIcon flag="br"/></span>*/}
+                {/*</div>*/}
             </Container>
         </nav>
     );

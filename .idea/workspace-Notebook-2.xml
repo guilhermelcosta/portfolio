@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dc87de8-31d2-4cd7-84af-1d4aa071c5fc" name="Changes" comment="feat: update README.md">
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/foto-heading.jpeg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Sa3VahbwDgMPeNqnLBGJpT59yH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/guilh/OneDrive/Documentos/2 - Pessoal/Repositorios GitHub/portfolio",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PICHAU\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\img" />
+      <recent name="C:\Users\PICHAU\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PICHAU\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\img" />
+      <recent name="C:\Users\PICHAU\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\components\sections\Projects" />
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\components\sections" />
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\img" />
+      <recent name="C:\Users\guilh\OneDrive\Documentos\2 - Pessoal\Repositorios GitHub\portfolio\src\components\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc87de8-31d2-4cd7-84af-1d4aa071c5fc" name="Changes" comment="" />
+      <created>1689370888360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689370888360</updated>
+      <workItem from="1689370889457" duration="13736000" />
+      <workItem from="1689427750525" duration="7761000" />
+      <workItem from="1689775677987" duration="1994000" />
+      <workItem from="1689778513681" duration="60000" />
+      <workItem from="1689779308764" duration="18000" />
+      <workItem from="1689783363966" duration="21536000" />
+      <workItem from="1689812944865" duration="4317000" />
+      <workItem from="1689856278892" duration="5197000" />
+      <workItem from="1689862913373" duration="604000" />
+      <workItem from="1689872940561" duration="683000" />
+      <workItem from="1690223496641" duration="1767000" />
+      <workItem from="1690483959531" duration="46000" />
+      <workItem from="1691537241477" duration="42000" />
+      <workItem from="1692194307171" duration="109000" />
+    </task>
+    <task id="LOCAL-00001" summary="tada: upload inicial">
+      <option name="closed" value="true" />
+      <created>1689386611407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689386611407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: finalizado pagina de projetos e detalhes">
+      <option name="closed" value="true" />
+      <created>1689805911193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689805911194</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: finalizado pagina experiencia">
+      <option name="closed" value="true" />
+      <created>1689815513798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689815513798</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: configuracoes para publicar gh-pages">
+      <option name="closed" value="true" />
+      <created>1689815828874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689815828874</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: configuracoes para host">
+      <option name="closed" value="true" />
+      <created>1689856438583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689856438583</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: atualizado foto e AboutMe.js">
+      <option name="closed" value="true" />
+      <created>1689859189581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689859189581</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: atualizado foto e AboutMe.js">
+      <option name="closed" value="true" />
+      <created>1689859198896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689859198896</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: update README.md">
+      <option name="closed" value="true" />
+      <created>1689861763868</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689861763868</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: update README.md">
+      <option name="closed" value="true" />
+      <created>1689861899563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689861899563</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: update README.md">
+      <option name="closed" value="true" />
+      <created>1689861953501</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689861953501</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tada: upload inicial" />
+    <MESSAGE value="feat: finalizado pagina de projetos e detalhes" />
+    <MESSAGE value="feat: finalizado pagina experiencia" />
+    <MESSAGE value="feat: configuracoes para publicar gh-pages" />
+    <MESSAGE value="feat: configuracoes para host" />
+    <MESSAGE value="feat: atualizado foto e AboutMe.js" />
+    <MESSAGE value="feat: update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update README.md" />
+  </component>
+</project>
